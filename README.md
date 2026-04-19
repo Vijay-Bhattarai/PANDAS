@@ -1,6 +1,6 @@
 # PANDAS
 
-# 🐼 Pandas Basics Guide (For AI Engineers)
+# 🐼 Pandas Basics Guide 
 
 This repository covers the essential topics of Pandas required for data analysis and preparing data for Machine Learning.
 
@@ -113,30 +113,3 @@ df.drop_duplicates()
 
 ---
 
-## 🎯 Why This Matters for AI Engineers
-
-* Real-world data is messy
-* Models require clean and structured data
-* Pandas helps prepare data before using ML libraries like:
-
-  * scikit-learn
-  * PyTorch
-
----
-
-## 🚀 Next Steps
-
-After completing Pandas:
-
-1. Learn basic visualization (Matplotlib, Seaborn)
-2. Perform Exploratory Data Analysis (EDA)
-3. Start Machine Learning with scikit-learn
-
----
-
-## 💡 Conclusion
-
-Mastering Pandas is a crucial step toward becoming an AI Engineer.
-Focus on practicing with real datasets to build strong skills.
-
----
